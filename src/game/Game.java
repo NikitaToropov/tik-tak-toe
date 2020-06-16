@@ -27,6 +27,5 @@ public class Game {
 
     void showMessage(String messageText){
         JOptionPane.showMessageDialog(board, messageText);
-
     }
 }

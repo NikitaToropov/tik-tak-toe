@@ -6,7 +6,7 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
 public class GameBoard extends JFrame {
-    public static int dimension = 3;
+    public static int dimension = 7;
     static int cellSize = 150;
     private char[][] gameField;
     private GameButton[] gameButtons;
